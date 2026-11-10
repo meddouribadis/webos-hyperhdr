@@ -35,7 +35,7 @@ Bring your Ambilight experience to the next level. Control your HyperHDR setup d
 
 The URL is:
 ```
-https://satgit62.github.io/webos-hyperhdr/repo.json
+https://meddouribadis.github.io/webos-hyperhdr/repo.json
 ```
 
 
