@@ -2,3 +2,7 @@
 	path = hyperhdr-webos-loader
 	url = https://github.com/meddouribadis/hyperhdr-webos-loader.git
 	branch = master
+[submodule "piccap"]
+	path = piccap
+	url = https://github.com/meddouribadis/piccap.git
+	branch = main
