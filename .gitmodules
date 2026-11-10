@@ -1,0 +1,4 @@
+[submodule "hyperhdr-webos-loader"]
+	path = hyperhdr-webos-loader
+	url = https://github.com/meddouribadis/hyperhdr-webos-loader.git
+	branch = master
